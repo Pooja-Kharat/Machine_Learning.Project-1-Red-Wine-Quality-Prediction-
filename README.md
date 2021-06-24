@@ -1,1 +1,5 @@
-# Intro-to-ML(project1)---Pooja-Kharat
+# Internship Project-1
+
+(Machine Learning)
+
+Quality Preediction of Red Wine
