@@ -2,4 +2,4 @@
 
 (Machine Learning)
 
-Quality Preediction of Red Wine
+Quality Prediction of Red Wine
